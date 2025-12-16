@@ -1,4 +1,4 @@
-"use client"
+"use client";
 
 import { ThemeProvider } from "@/providers/themeProvider/ThemeProvider";
 import NavbarLayoutFloatingOverlay from '@/components/navbar/NavbarLayoutFloatingOverlay/NavbarLayoutFloatingOverlay';
@@ -197,49 +197,57 @@ export default function LandingPage() {
               id: "1",
               name: "Jessica Martinez",
               role: "Chief Strategy Officer",
-              imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_339tT0ou1QLfW9e8sQWOCReXusx/uploaded-1765907077201-gh8gx2ln.jpg"
+              imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_339tT0ou1QLfW9e8sQWOCReXusx/uploaded-1765907077201-gh8gx2ln.jpg",
+              linkedinUrl: "https://linkedin.com/in/jessica-martinez"
             },
             {
               id: "2",
               name: "Alex Thompson",
               role: "Creative Director",
-              imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_339tT0ou1QLfW9e8sQWOCReXusx/uploaded-1765907077855-7eivp6g5.jpg"
+              imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_339tT0ou1QLfW9e8sQWOCReXusx/uploaded-1765907077855-7eivp6g5.jpg",
+              linkedinUrl: "https://linkedin.com/in/alex-thompson"
             },
             {
               id: "3",
               name: "Priya Patel",
               role: "Social Media Strategist",
-              imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_339tT0ou1QLfW9e8sQWOCReXusx/uploaded-1765907078414-hg7523ef.jpg"
+              imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_339tT0ou1QLfW9e8sQWOCReXusx/uploaded-1765907078414-hg7523ef.jpg",
+              linkedinUrl: "https://linkedin.com/in/priya-patel"
             },
             {
               id: "4",
               name: "Marco Rossi",
               role: "SEO Specialist",
-              imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_339tT0ou1QLfW9e8sQWOCReXusx/uploaded-1765907078983-cwyrwk3k.jpg"
+              imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_339tT0ou1QLfW9e8sQWOCReXusx/uploaded-1765907078983-cwyrwk3k.jpg",
+              linkedinUrl: "https://linkedin.com/in/marco-rossi"
             },
             {
               id: "5",
               name: "Sophie Laurent",
               role: "Content Manager",
-              imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_339tT0ou1QLfW9e8sQWOCReXusx/uploaded-1765907079517-mewm06wf.jpg"
+              imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_339tT0ou1QLfW9e8sQWOCReXusx/uploaded-1765907079517-mewm06wf.jpg",
+              linkedinUrl: "https://linkedin.com/in/sophie-laurent"
             },
             {
               id: "6",
               name: "Ryan Chen",
               role: "Analytics Expert",
-              imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_339tT0ou1QLfW9e8sQWOCReXusx/uploaded-1765907080571-zj9f5tec.jpg"
+              imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_339tT0ou1QLfW9e8sQWOCReXusx/uploaded-1765907080571-zj9f5tec.jpg",
+              linkedinUrl: "https://linkedin.com/in/ryan-chen"
             },
             {
               id: "7",
               name: "Emma Wilson",
               role: "Brand Strategist",
-              imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_339tT0ou1QLfW9e8sQWOCReXusx/uploaded-1765907081346-gs4zjghn.jpg"
+              imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_339tT0ou1QLfW9e8sQWOCReXusx/uploaded-1765907081346-gs4zjghn.jpg",
+              linkedinUrl: "https://linkedin.com/in/emma-wilson"
             },
             {
               id: "8",
               name: "Carlos Mendez",
               role: "Paid Ads Manager",
-              imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_339tT0ou1QLfW9e8sQWOCReXusx/uploaded-1765907082560-l9n7cf5l.jpg"
+              imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_339tT0ou1QLfW9e8sQWOCReXusx/uploaded-1765907082560-l9n7cf5l.jpg",
+              linkedinUrl: "https://linkedin.com/in/carlos-mendez"
             }
           ]}
         />
