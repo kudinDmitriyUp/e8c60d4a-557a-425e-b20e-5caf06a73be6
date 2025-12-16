@@ -30,13 +30,13 @@ export default function Home() {
         <NavbarLayoutFloatingOverlay
           logoSrc="/placeholders/placeholder1.webp"
           navItems={[
-            { name: "Hero", href: "hero" },
-            { name: "About", href: "about" },
-            { name: "Services", href: "services" },
-            { name: "Testimonials", href: "testimonials" },
-            { name: "Team", href: "team" },
-            { name: "FAQ", href: "faq" },
-            { name: "Contact", href: "contact" }
+            { name: "Hero", id: "hero" },
+            { name: "About", id: "about" },
+            { name: "Services", id: "services" },
+            { name: "Testimonials", id: "testimonials" },
+            { name: "Team", id: "team" },
+            { name: "FAQ", id: "faq" },
+            { name: "Contact", id: "contact" }
           ]}
           button={{ label: "Get Started", href: "contact" }}
         />
